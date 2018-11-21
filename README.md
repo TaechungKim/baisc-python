@@ -1,2 +1,4 @@
 # baisc-python
-python basic code
+
+
+My basic python practice code.
