@@ -1,4 +1,4 @@
-# baisc-python
+# My python sample code
 
 
-My basic python practice code.
+This reposit
