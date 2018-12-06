@@ -1,4 +1,4 @@
 # My python sample code
 
 
-This reposit
+This repository
